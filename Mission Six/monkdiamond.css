@@ -1,0 +1,142 @@
+
+body {
+  background-image: linear-gradient(to right, rgb(4, 51, 85) , rgb(67, 91, 144))
+}
+#header {
+  padding: 60px;
+  text-align: center;
+  background: #F0D515;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: "cinema-script", sans-serif;
+}
+#headertext {
+  font-family: "cinema-script", sans-serif;
+  color: black;
+}
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+.hidden {
+  display: none;
+}
+.visible {
+  display: block;
+}
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15pt;
+  font-weight: bold;
+  color: rgb(220, 220, 220);
+  text-align: center;
+}
+a:link {
+color: rgb(0, 0, 0);
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: rgb(0, 0, 0);
+background-color: transparent;
+text-decoration: underline;
+}
+a:hover {
+  color: rgb(0, 0, 0);
+}
+
+a:active {
+  color: rgb(0, 0, 0);
+}
+#button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30pt;
+        font-weight: bold;
+        color: rgb(234, 234, 234);
+        background-color: rgba(35, 8, 67, 0.6);
+        width: 70%;
+       text-align: center;
+       margin: 0 auto;
+       box-shadow: 4px 4px 4px rgb(25, 24, 26);
+}
+.thief {
+  background-image: url('Thief.png');
+  background-size: cover;
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+#bar {
+  border: 3px solid rgb(255, 255, 255);
+  background-color: aliceblue;
+}
+#para {
+  width: 90%;
+  text-align: center;
+  margin: 0 auto;
+}
+#bartext {
+  color:black;
+}
+#diamondbanner {
+  padding: 60px;
+  text-align: center;
+  background: linear-gradient(45deg,rgb(124, 149, 182), #192d48, rgb(124, 149, 182));
+  font-size: 30px;
+  font-family: "cinema-script", sans-serif;
+}
+#diamondText {
+  font-family: "cinema-script", sans-serif;
+  color: #d5d7db;
+}
+#bannerimage {
+  width: 100%;
+  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
+
+#pizzaImage{
+  background-image: url('pizza.jpeg');
+  background-size: cover;
+  width: 70%;
+  height: 400px;
+  position: relative;
+  margin: auto;
+}
+
+#discovery {
+  padding: 60px;
+  text-align: center;
+  background-image: url('space.png');
+  background-size: cover;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: "cinema-script", sans-serif;
+}
+span {
+  background-color: #192d48;
+}
+#dispara{
+  width: 70%;
+  margin: 0 auto;
+}
+#disimg{
+  background-image: url('col.jpg');
+  background-size: cover;
+  width: 30%;
+  height: 400px;
+}
